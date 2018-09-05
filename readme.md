@@ -49,7 +49,7 @@ Now copy that localhost link and paste it in your browser .<br>
 
 **Step - 9** :- Now to access the administrator account log in with password "password" and email "ashiq@gmail.com"
 
-<h3 align="center">Project Screenshoots</h3>
+<h3 align="center">Project Screenshots</h3>
 <p align = center><img src="/Screenshots/01.PNG" width="400" style="max-width:100%;"><img src="/Screenshots/0002.PNG" width="400" style="max-width:100%;">
  <img src="/Screenshots/03.PNG" width="400" style="max-width:100%;"><img src="/Screenshots/L5.JPG" width="400" style="max-width:100%;">
 </p>
